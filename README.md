@@ -79,9 +79,3 @@ OPENAI_API_KEY=sk-...
 ## 📝 Requirements
 
 All required packages are in `requirements.txt` (includes LangChain, OpenAI, FAISS, dotenv, FastAPI, etc).
-
----
-
-## 📝 License
-
-MIT or Apache-2.0 (your choice).
